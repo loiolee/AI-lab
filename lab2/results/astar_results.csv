@@ -1,0 +1,5 @@
+﻿algorithm,problem,heuristic,expanded_nodes,visited_nodes,path_length,total_cost,time,cost_mode,generated_nodes,found,experiment,problem_label
+A*,problem1_maze,zero,17,18,7,7,5.2e-05,uniform,34,1,A1,题目一 迷宫
+A*,problem1_maze,manhattan,14,17,7,7,4.8e-05,uniform,29,1,A2,题目一 迷宫
+A*,problem2_weighted,weighted_manhattan,9,16,8,7,7.3e-05,weighted,25,1,A3,题目二 加权地形
+A*,problem2_weighted,zero,15,24,8,7,8e-05,weighted,46,1,A4,题目二 加权地形

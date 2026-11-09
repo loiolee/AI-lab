@@ -1,0 +1,5 @@
+# 核心算法与测试仅依赖 Python 标准库，无需安装任何第三方包即可运行。
+#
+# 可选：安装 matplotlib 后，results/figures 下的图表会输出 PNG；
+# 未安装时自动降级为纯标准库生成的 SVG（同样可插入实验报告）。
+# matplotlib>=3.5

@@ -1,0 +1,5 @@
+﻿algorithm,depth,best_target,best_value,total_nodes,leaf_nodes,pruning_count,time
+Minimax,2,T2,-1,17,12,0,0.0001352
+Alpha-Beta,2,T2,-1,13,8,2,9.64e-05
+Minimax,4,T3,3,65,24,0,0.0003183
+Alpha-Beta,4,T3,3,47,16,5,0.0002722

@@ -1,0 +1,6 @@
+﻿algorithm,depth,total_nodes,leaf_nodes,pruning_count,pruned_nodes,best_target,best_value,time,order,expanded_nodes,pruned_branches,max_depth,problem,experiment
+Alpha-Beta,2,13,8,2,0,T2,-1,7.5e-05,left_to_right,5,4,2,problem4,B2
+Alpha-Beta,4,47,16,5,0,T3,3,0.000259,left_to_right,31,6,4,problem4,B4
+Alpha-Beta,4,39,13,5,0,T3,3,0.000261,max_high,26,7,4,problem4,B5
+Alpha-Beta,4,43,14,7,0,T3,3,0.000309,min_low,29,8,4,problem4,B6
+Alpha-Beta,4,37,12,6,0,T3,3,0.000274,heuristic,25,8,4,problem4,B7

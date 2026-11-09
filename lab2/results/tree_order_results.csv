@@ -1,0 +1,9 @@
+﻿experiment,order,order_label,best_value,total_nodes,leaf_nodes,pruning_count,pruned_nodes,time,tree
+C1,left_to_right,从左到右,5.0,14,7,1,1,2.4521666346117855e-05,pdf_tree
+C2,max_high,MAX 优先高估值,5.0,14,7,1,1,2.3937999891738097e-05,pdf_tree
+C3,min_low,MIN 优先低估值,5.0,11,5,2,4,2.0630666598056753e-05,pdf_tree
+C4,heuristic,双向启发式排序,5.0,11,5,2,4,2.1574666413168112e-05,pdf_tree
+C1,left_to_right,从左到右,3.0,77,45,14,44,0.00017961666686460375,random_tree
+C2,max_high,MAX 优先高估值,3.0,68,38,14,53,0.00017162166691074768,random_tree
+C3,min_low,MIN 优先低估值,3.0,53,27,13,68,0.00015268633336139222,random_tree
+C4,heuristic,双向启发式排序,3.0,49,25,12,72,0.0001529703331956019,random_tree
